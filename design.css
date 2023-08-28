@@ -50,6 +50,7 @@ main{
 }
 
 p{
+    font-size: max(60px, 5vw);
     text-indent: 30px;
     padding:10px;
     font-family: 'Lucida Sans';
@@ -73,9 +74,9 @@ img{
 #video{
    position: relative;
    overflow: hidden;
-   width:50%;
-   padding-top: 30%;
-   margin-left: 25% ;
+   width:100%;
+   padding-top: 50%;
+   margin-left: 50.25% ;
 }
 
 
@@ -131,6 +132,7 @@ content: "ピー";
 }
 
 li{
+    font-size: max(60px, 5%);
     list-style-type: georgian;
 }
 
